@@ -11,7 +11,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/samsung/a51
+DEVICE_PATH := device/samsung/f41
 
 # Architecture
 TARGET_ARCH := arm64
@@ -39,7 +39,7 @@ TARGET_NO_RADIOIMAGE := true
 TARGET_BOARD_PLATFORM := exynos9611
 TARGET_BOARD_PLATFORM_GPU := mali-g72
 PLATFORM_SECURITY_PATCH := 2021-05-01
-PLATFORM_VERSION := 11
+PLATFORM_VERSION := 10
 
 # Kernel
 BOARD_KERNEL_BASE := 0x10000000
